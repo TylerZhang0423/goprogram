@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a70c77b-a8d2-4bac-8d0e-23160452adfc" name="默认变更列表" comment="默认变更列表">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/goprogram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/goprogram.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project01/main/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project01/util/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project02/funcdemo01/main/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -43,7 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -54,25 +50,16 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.配色方案字体" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Go 构建.go build leetcode/0412FizzBuzz">
-    <configuration name="go build leetcode/0202HappyNumber" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go 构建.go build leetcode/0682BaseballGame">
+    <configuration name="go build leetcode/0169MajorityElement" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goprogram" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="leetcode/0202HappyNumber" />
+      <package value="leetcode/0169MajorityElement" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/leetcode/0202HappyNumber/HappyNumber.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build leetcode/0367ValidPerfectSquare" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goprogram" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="leetcode/0367ValidPerfectSquare" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/leetcode/0367ValidPerfectSquare/ValidPerfectSquare.go" />
+      <filePath value="$PROJECT_DIR$/src/leetcode/0169MajorityElement/MajorityElement.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build leetcode/0389FindtheDifference" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -102,13 +89,22 @@
       <filePath value="$PROJECT_DIR$/src/leetcode/0412FizzBuzz/FizzBuzz.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build leetcode/0682BaseballGame" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goprogram" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/0682BaseballGame" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/leetcode/0682BaseballGame/0682BaseballGame.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build leetcode/0682BaseballGame" />
+        <item itemvalue="Go 构建.go build leetcode/0169MajorityElement" />
         <item itemvalue="Go 构建.go build leetcode/0412FizzBuzz" />
         <item itemvalue="Go 构建.go build leetcode/0409LongestPalindrome" />
         <item itemvalue="Go 构建.go build leetcode/0389FindtheDifference" />
-        <item itemvalue="Go 构建.go build leetcode/0367ValidPerfectSquare" />
-        <item itemvalue="Go 构建.go build leetcode/0202HappyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -126,5 +122,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
