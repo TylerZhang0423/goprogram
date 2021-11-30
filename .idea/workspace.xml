@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a70c77b-a8d2-4bac-8d0e-23160452adfc" name="默认变更列表" comment="默认变更列表">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/0682BaseballGame/0682BaseballGame.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/0682BaseballGame/BaseballGame.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,23 +52,23 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Go 构建.go build leetcode/0728SelfDividingNumbers">
-    <configuration name="go build leetcode/0011ContainerWithMostWater" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go 构建.go build leetcode/0225ImplementStackUsingQueues">
+    <configuration name="go build leetcode/0050Pow" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goprogram" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="leetcode/0011ContainerWithMostWater" />
+      <package value="leetcode/0050Pow" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/leetcode/0011ContainerWithMostWater/ContainerWithMostWater.go" />
+      <filePath value="$PROJECT_DIR$/src/leetcode/0050Pow/Pow.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build leetcode/0038CountAndSay" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build leetcode/0225ImplementStackUsingQueues" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goprogram" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="leetcode/0038CountAndSay" />
+      <package value="leetcode/0225ImplementStackUsingQueues" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/leetcode/0038CountAndSay/CountAndSay.go" />
+      <filePath value="$PROJECT_DIR$/src/leetcode/0225ImplementStackUsingQueues/ImplementStackUsingQueues.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build leetcode/0392IsSubsequence" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -81,15 +80,6 @@
       <filePath value="$PROJECT_DIR$/src/leetcode/0392IsSubsequence/IsSubsequence.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build leetcode/0507PerfectNumber" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goprogram" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="leetcode/0507PerfectNumber" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/leetcode/0507PerfectNumber/PerfectNumber.go" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build leetcode/0728SelfDividingNumbers" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goprogram" />
       <working_directory value="$PROJECT_DIR$" />
@@ -99,13 +89,22 @@
       <filePath value="$PROJECT_DIR$/src/leetcode/0728SelfDividingNumbers/SelfDividingNumbers.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build leetcode/0779K-thSymbolInGrammar" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goprogram" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/0779K-thSymbolInGrammar" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/leetcode/0779K-thSymbolInGrammar/K-thSymbolInGrammar.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build leetcode/0225ImplementStackUsingQueues" />
+        <item itemvalue="Go 构建.go build leetcode/0050Pow" />
+        <item itemvalue="Go 构建.go build leetcode/0779K-thSymbolInGrammar" />
         <item itemvalue="Go 构建.go build leetcode/0728SelfDividingNumbers" />
         <item itemvalue="Go 构建.go build leetcode/0392IsSubsequence" />
-        <item itemvalue="Go 构建.go build leetcode/0038CountAndSay" />
-        <item itemvalue="Go 构建.go build leetcode/0011ContainerWithMostWater" />
-        <item itemvalue="Go 构建.go build leetcode/0507PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
