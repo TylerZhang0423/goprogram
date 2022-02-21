@@ -7,6 +7,23 @@
     <list default="true" id="6a70c77b-a8d2-4bac-8d0e-23160452adfc" name="默认变更列表" comment="默认变更列表">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/controller/api.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/controller/demo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/dao/demo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/dao/user.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/dto/api.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/dto/api.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/dto/demo.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/dto/demo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/middleware/ip_auth.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/middleware/ip_auth.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/middleware/recovery.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/middleware/recovery.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/middleware/request_log.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/middleware/request_log.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/middleware/response.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/middleware/response.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/middleware/translation.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/middleware/translation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/public/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/public/log.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/router/httpserver.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/router/httpserver.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/router/route.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gin_scaffold/router/route.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
     <option name="urls">
       <list>
         <option value="file://$PROJECT_DIR$" />
@@ -49,20 +67,19 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.dep.integrator" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/gin_scaffold/controller" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Go 构建.go build demo">
-    <configuration name="go build demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goprogram" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="demo" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/demo/main.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/gin_scaffold/controller" />
+      <recent name="$PROJECT_DIR$/src/gin_scaffold" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build leetcode/0011ContainerWithMostWater">
     <configuration name="go build leetcode/0001TwoSum" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goprogram" />
       <working_directory value="$PROJECT_DIR$" />
@@ -70,6 +87,15 @@
       <package value="leetcode/0001TwoSum" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/src/leetcode/0001TwoSum/TwoSum.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build leetcode/0011ContainerWithMostWater" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goprogram" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/0011ContainerWithMostWater" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/leetcode/0011ContainerWithMostWater/ContainerWithMostWater.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build leetcode/0050Pow" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -101,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build demo" />
-        <item itemvalue="Go 构建.go build leetcode/0001TwoSum" />
+        <item itemvalue="Go 构建.go build leetcode/0011ContainerWithMostWater" />
+        <item itemvalue="Go 构建.go build leetcode/0779K-thSymbolInGrammar" />
         <item itemvalue="Go 构建.go build leetcode/0225ImplementStackUsingQueues" />
         <item itemvalue="Go 构建.go build leetcode/0050Pow" />
-        <item itemvalue="Go 构建.go build leetcode/0779K-thSymbolInGrammar" />
+        <item itemvalue="Go 构建.go build leetcode/0001TwoSum" />
       </list>
     </recent_temporary>
   </component>

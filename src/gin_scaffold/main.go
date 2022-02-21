@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/e421083458/gin_scaffold/router"
-	"github.com/e421083458/golang_common/lib"
+	"gin_scaffold/golang_common/lib"
+	"gin_scaffold/router"
 	"os"
 	"os/signal"
 	"syscall"
