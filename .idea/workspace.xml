@@ -5,49 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a70c77b-a8d2-4bac-8d0e-23160452adfc" name="默认变更列表" comment="默认变更列表">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/beorn7/perks/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/beorn7/perks/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/contrib/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/contrib/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/gin/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/gin/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-logfmt/logfmt/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-logfmt/logfmt/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/jsonpointer/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/jsonpointer/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/jsonreference/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/jsonreference/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/spec/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/spec/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/swag/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/swag/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/validator/v10/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/validator/v10/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gogo/protobuf/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gogo/protobuf/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/btree/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/btree/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/sessions/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/sessions/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mailru/easyjson/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mailru/easyjson/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/pkg/errors/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/pkg/errors/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_model/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_model/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/common/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/common/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/procfs/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/procfs/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/spf13/viper/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/spf13/viper/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/swaggo/swag/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/swaggo/swag/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/codec/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/codec/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/lint/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/lint/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sync/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sync/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/term/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/term/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/time/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/time/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/tools/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/tools/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/xerrors/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/xerrors/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/grpc/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/grpc/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/check.v1/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/check.v1/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/go-playground/validator.v9/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/go-playground/validator.v9/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/e421083458/golang_common/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/e421083458/golang_common/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-sql-driver/mysql/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-sql-driver/mysql/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/jinzhu/inflection/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/jinzhu/inflection/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/jinzhu/now/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/jinzhu/now/@v/list" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
