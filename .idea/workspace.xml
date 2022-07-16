@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a70c77b-a8d2-4bac-8d0e-23160452adfc" name="默认变更列表" comment="默认变更列表">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/e421083458/golang_common/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/e421083458/golang_common/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-sql-driver/mysql/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-sql-driver/mysql/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/jinzhu/inflection/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/jinzhu/inflection/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/jinzhu/now/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/jinzhu/now/@v/list" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,7 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/gin_scaffold/controller" />
-    <property name="settings.editor.selected.configurable" value="go.sdk" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -141,5 +136,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
 </project>
