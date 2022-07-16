@@ -5,7 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a70c77b-a8d2-4bac-8d0e-23160452adfc" name="默认变更列表" comment="默认变更列表">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/beorn7/perks/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/beorn7/perks/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/contrib/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/contrib/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/gin/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gin-gonic/gin/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-logfmt/logfmt/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-logfmt/logfmt/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/jsonpointer/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/jsonpointer/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/jsonreference/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/jsonreference/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/spec/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/spec/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/swag/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-openapi/swag/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/validator/v10/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-playground/validator/v10/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gogo/protobuf/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gogo/protobuf/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/btree/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/google/btree/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/sessions/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/sessions/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mailru/easyjson/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mailru/easyjson/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/pkg/errors/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/pkg/errors/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_model/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_model/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/common/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/common/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/procfs/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/procfs/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/spf13/viper/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/spf13/viper/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/swaggo/swag/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/swaggo/swag/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/codec/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/ugorji/go/codec/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/lint/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/lint/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sync/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sync/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/term/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/term/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/time/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/time/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/tools/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/tools/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/xerrors/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/xerrors/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/grpc/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/grpc/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/check.v1/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/check.v1/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/go-playground/validator.v9/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/go-playground/validator.v9/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gin_scaffold/go.sum" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +71,7 @@
     <option name="urls">
       <list>
         <option value="file://$PROJECT_DIR$" />
+        <option value="file://$PROJECT_DIR$/src/gin_scaffold" />
       </list>
     </option>
   </component>
@@ -53,7 +96,7 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/gin_scaffold/controller" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -61,23 +104,23 @@
       <recent name="$PROJECT_DIR$/src/gin_scaffold" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build leetcode/0495TeemoAttacking">
-    <configuration name="go build leetcode/0011ContainerWithMostWater" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go 构建.go build gin_scaffold">
+    <configuration name="go build gin_scaffold" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goprogram" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="leetcode/0011ContainerWithMostWater" />
+      <package value="gin_scaffold" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/leetcode/0011ContainerWithMostWater/ContainerWithMostWater.go" />
+      <filePath value="$PROJECT_DIR$/src/gin_scaffold/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build leetcode/0290WordPattern" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/e421083458/golang_common" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goprogram" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="leetcode/0290WordPattern" />
+      <package value="github.com/e421083458/golang_common" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/leetcode/0290WordPattern/WordPattern.go" />
+      <filePath value="$PROJECT_DIR$/src/github.com/e421083458/golang_common/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build leetcode/0441ArrangingCoins" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -109,17 +152,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build gin_scaffold" />
+        <item itemvalue="Go 构建.go build github.com/e421083458/golang_common" />
         <item itemvalue="Go 构建.go build leetcode/0495TeemoAttacking" />
         <item itemvalue="Go 构建.go build leetcode/0463IslandPerimeter" />
         <item itemvalue="Go 构建.go build leetcode/0441ArrangingCoins" />
-        <item itemvalue="Go 构建.go build leetcode/0290WordPattern" />
-        <item itemvalue="Go 构建.go build leetcode/0011ContainerWithMostWater" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.toml" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

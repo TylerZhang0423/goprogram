@@ -19,6 +19,7 @@
     <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-isatty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/pkg/errors" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/spf13/viper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/subosito/gotenv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/swaggo/gin-swagger" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/ugorji/go" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/golang.org/x/crypto" vcs="Git" />
